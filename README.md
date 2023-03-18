@@ -17,6 +17,7 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/shinyora/hello-world.git
+git remote add origin https://github.com/shinyora/ghello.git
 ### password is not supported now!
 git push -u origin main
 
